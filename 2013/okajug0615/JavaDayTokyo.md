@@ -5,8 +5,8 @@
 theme: i18n  
 author: @ryosms  
 company:  
-title: Java Day Tokyo 2013  
-subtitle:  
+title: Java Day Tokyo 2013に参加して  
+subtitle: 2013/06/15 岡山Java User Group  
 footer: 2013/06/15  
 subfooter: at okajug(Okayama Java User Group)  
 
