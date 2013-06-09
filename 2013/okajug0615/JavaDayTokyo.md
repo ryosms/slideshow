@@ -33,6 +33,16 @@ github: [ryosms](https://github.com/ryosms)
 
 [![](./images/best_tweet.png)](https://twitter.com/ryosms/status/276828102217310209)
 
+# 本日のお品書き
+
+- 感想編
+	* 移動日
+	* 当日
+	* 帰国日
+
+- 成果編
+
+
 # ご静聴ありがとうございました
 
 ![](./images/last.png)
