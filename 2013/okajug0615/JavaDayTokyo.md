@@ -33,3 +33,6 @@ github: [ryosms](https://github.com/ryosms)
 
 [![](./images/best_tweet.png)](https://twitter.com/ryosms/status/276828102217310209)
 
+# ご静聴ありがとうございました
+
+![](./images/last.png)
