@@ -35,13 +35,56 @@ github: [ryosms](https://github.com/ryosms)
 
 # 本日のお品書き
 
-- 感想編
-	* 移動日
-	* 当日
-	* 帰国日
+* 前日（移動日）
+* Java Day Tokyo当日
+* 翌日（会社訪問Day）
 
-- 成果編
 
+# Java Day Tokyo前日
+
+- よみがえる[前年の悪夢](http://blog.livedoor.jp/ryosms/archives/6069917.html)
+
+# Java Day Tokyo前日
+
+- よみがえる[前年の悪夢](http://blog.livedoor.jp/ryosms/archives/6069917.html)
+- 結局なんの波乱もなく到着
+
+# Java Day Tokyo前日
+
+- よみがえる[前年の悪夢](http://blog.livedoor.jp/ryosms/archives/6069917.html)
+- 結局なんの波乱もなく到着
+- 夜は首都圏のAndroiderたちと酒盛り
+
+# Java Day Tokyo前日
+
+- よみがえる[前年の悪夢](http://blog.livedoor.jp/ryosms/archives/6069917.html)
+- 結局なんの波乱もなく到着
+- 夜は首都圏のAndroiderたちと酒盛り
+- 得たもの = [Ingress](http://www.ingress.com/)
+
+# Ingress #とは
+
+- Googleの運営するARゲーム
+- 陣取りゲーム
+- 緑と青の2勢力
+
+# Ingress #とは
+
+- Googleの運営するARゲーム
+- 陣取りゲーム
+- 緑と青の2勢力
+- Java Day Tokyo 2013との関係？
+
+# Ingress #とは
+
+- Googleの運営するARゲーム
+- 陣取りゲーム
+- 緑と青の2勢力
+- Java Day Tokyo 2013との関係？
+	* ありません
+	* 強いて言えばAのつくアレなのでJavaのようなもので(ry	
+	
+	
 
 # ご静聴ありがとうございました
 
