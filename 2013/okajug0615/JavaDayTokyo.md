@@ -60,7 +60,7 @@ github: [ryosms](https://github.com/ryosms)
 - よみがえる[前年の悪夢](http://blog.livedoor.jp/ryosms/archives/6069917.html)
 - 結局なんの波乱もなく到着
 - 夜は首都圏のAndroiderたちと酒盛り
-- 得たもの = [Ingress](http://www.ingress.com/)
+- 得たもの： [Ingress](http://www.ingress.com/)
 
 # Ingress #とは
 
@@ -100,7 +100,7 @@ TODO: 書く
 	* 昨年はTwitter Japanにお邪魔しました
 - 今年訪問した会社
 	* サムライズム（昨年に引き続きTwitter4Jのイケメンのお世話に）  
-		無限`Red Bull`
+		得たもの： `Red Bull`
 
 # Java Day Tokyo翌日
 
@@ -108,9 +108,9 @@ TODO: 書く
 	* 昨年はTwitter Japanにお邪魔しました
 - 今年訪問した会社
 	* サムライズム（昨年に引き続きTwitter4Jのイケメンのお世話に）  
-		無限`Red Bull`
+		得たもの： `Red Bull`
 	* ウサギィ（オープンセミナーの時に実行委員権限を濫用しました←）  
-		ご存知`海鮮丼`
+		得たもの： `海鮮丼`
 
 # まとめ
 
