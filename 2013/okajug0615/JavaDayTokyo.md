@@ -86,7 +86,59 @@ github: [ryosms](https://github.com/ryosms)
 
 # Java Day Tokyo 2013当日
 
-TODO: 書く
+イベントを通して受けた印象
+
+- Project Lambda
+- JavaFX
+- ミニ四駆
+- その他
+
+# Java Day Tokyo 2013当日
+
+## 某okajug代表
+
+# Java Day Tokyo 2013当日
+
+## 某okajug代表
+「あー、それ、もうRubyで(ry」
+
+# Java Day Tokyo 2013当日
+
+## 某okajug代表
+「あー、それ、もうRubyで(ry」
+
+## 某tkscala代表
+
+# Java Day Tokyo 2013当日
+
+## 某okajug代表
+「あー、それ、もうRubyで(ry」
+
+## 某tkscala代表
+「あー、それ、もうScalaで(ry」
+
+# Java Day Tokyo 2013当日
+
+## マサカリこわい
+
+# Java Day Tokyo 2013当日
+
+## マサカリこわい
+
+## 私の場合
+
+# Java Day Tokyo 2013当日
+
+## マサカリこわい
+
+## 私の場合
+「で、それいつになったらAnd(ry」
+
+# Java Day Tokyo 2013当日
+
+- 得たもの
+
+[![](./images/octocat.jpg)](https://twitter.com/ryosms/status/334317412436557825)
 
 # Java Day Tokyo翌日
 
