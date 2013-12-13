@@ -69,6 +69,7 @@ Viewerやその他おもしろツール
 * GitList (Viewer) - <https://github.com/klaussilveira/gitlist>
 * gitviz (Viewer) - <https://github.com/kevinw/gitviz>
 * RestfulGit (Restful API) - <https://github.com/hulu/restfulgit>ß
+* Team Foundation Server / Service - <http://www.visualstudio.com/ja-jp>
 
 
 # GitHub
@@ -214,6 +215,14 @@ Viewerやその他おもしろツール
 * <https://github.com/hulu/restfulgit>
 * Restful API
 * リポジトリの内容をJSONとして出力
+
+
+# Team Foundation Server / Service
+
+* <http://www.visualstudio.com/ja-jp>
+* Microsoft製のホスティングサーバー／サービス
+* ビルドやらテストやらできる
+* Gitも<strike>一応</strike>ホスティングできる
 
 
 # おしまい
