@@ -68,7 +68,7 @@ Viewerやその他おもしろツール
 * gitiles (Viewer) - <https://code.google.com/p/gitiles>
 * GitList (Viewer) - <https://github.com/klaussilveira/gitlist>
 * gitviz (Viewer) - <https://github.com/kevinw/gitviz>
-* RestfulGit (Restful API) - <https://github.com/hulu/restfulgit>ß
+* RestfulGit (Restful API) - <https://github.com/hulu/restfulgit>
 * Team Foundation Server / Service - <http://www.visualstudio.com/ja-jp>
 
 
