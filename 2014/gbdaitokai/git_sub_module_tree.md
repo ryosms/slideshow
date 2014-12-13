@@ -120,7 +120,7 @@ cjag / CJAG-APPS - [https://github.com/cjag/CJAG-APPS](https://github.com/cjag/C
 
 	$ git add.  
 	$ git commit -m "Update README"  
-	$ git pull origin master
+	$ git push origin master
 
 
 # 更新の取り込み - Git Submodule
