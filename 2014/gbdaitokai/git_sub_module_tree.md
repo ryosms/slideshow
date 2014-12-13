@@ -23,6 +23,9 @@ subfooter: at gbdaitokai(合同勉強会 in 大都会岡山)
 * \#パソコン直流会
 * 工事のおじさん
 
+# 自己紹介
+
+![](./images/introduction.png)
 
 # 内容
 
